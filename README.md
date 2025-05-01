@@ -40,8 +40,33 @@ NCDs are responsible for over **43 million deaths annually** — 75% of all non-
 
 ![NCD Dashboard](images/ncd_dashboard.png)
 
+
 ---
 
 ## 📁 Project Structure
+
+
+---
+
+## 📂 Data Source
+
+The dataset was sourced from the [World Health Organization (WHO)](https://www.who.int/data/gho/data/themes/topics/noncommunicable-diseases)
+
+This project is for educational and analytical purposes.
+
+---
+
+## 💡 Author Note
+
+This project is part of a data storytelling series on global NCD trends.  
+More insights coming soon, including:
+- Risk factor analysis
+- Premature NCD deaths
+- Income-based disparities
+
+Feel free to **fork**, **clone**, or **reach out** with feedback!
+
+---
+
 
 
