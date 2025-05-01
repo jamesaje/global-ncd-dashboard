@@ -4,31 +4,31 @@ This Power BI dashboard visualizes global trends in **non-communicable disease (
 
 ---
 
-## 🩺 What Are NCDs?
+## What Are NCDs?
 
 Non-communicable diseases (NCDs) are chronic illnesses that **cannot be transmitted from person to person**. They include:
-- 🫀 Cardiovascular diseases (e.g. heart attack, stroke)
-- 🎗️ Cancers
-- 🌬️ Chronic respiratory diseases
-- 🍬 Diabetes
+- Cardiovascular diseases (e.g. heart attack, stroke)
+- Cancers
+- Chronic respiratory diseases
+- Diabetes
 
 NCDs are responsible for over **43 million deaths annually** — 75% of all non-pandemic-related deaths — with the majority occurring in **low- and middle-income countries**.
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 
-- 📅 **Trend line** showing global NCD deaths over time
-- 🗺️ **World map** highlighting country-level mortality
-- 📊 **Top 10 countries** by NCD deaths
-- 🚻 **Male vs Female** death comparison (donut chart)
-- 🌍 **NCD deaths by WHO region** (donut chart)
-- 💰 **KPI cards** for global, high-, middle-, and low-income group deaths
-- 🎛️ Interactive **filters** for year and country
+- **Trend line** showing global NCD deaths over time
+- **World map** highlighting country-level mortality
+- **Top 10 countries** by NCD deaths
+- **Male vs Female** death comparison (donut chart)
+- **NCD deaths by WHO region** (donut chart)
+- **KPI cards** for global, high-, middle-, and low-income group deaths
+- Interactive **filters** for year and country
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - [Power BI](https://powerbi.microsoft.com/)
 - DAX (Data Analysis Expressions)
@@ -36,7 +36,7 @@ NCDs are responsible for over **43 million deaths annually** — 75% of all non-
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 ![NCD Dashboard](images/ncd_dashboard.png)
 
@@ -56,7 +56,7 @@ This project is for educational and analytical purposes.
 
 ---
 
-## 💡 Author Note
+## Author Note
 
 This project is part of a data storytelling series on global NCD trends.  
 More insights coming soon, including:
