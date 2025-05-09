@@ -38,7 +38,7 @@ NCDs are responsible for over **43 million deaths annually** — 75% of all non-
 
 ## Dashboard Preview
 
-![NCD Dashboard](images/ncd_dashboard.png)
+![NCD Dashboard](images/ncd_dashboard1.png)
 
 
 ---
